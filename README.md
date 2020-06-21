@@ -1,6 +1,8 @@
 # Project_1_AirBnB_Menorca
 AirBnB accommodations in Menorca (2020-2021)
 
+Link to Medium Post: https://medium.com/@bernardogarciadelrio/fancy-a-trip-to-menorca-a7e6e12056ba
+
 ## Table of Contents
 1. Installation
 2. Project Motivation
