@@ -3,6 +3,7 @@ AirBnB accommodations in Menorca (2020-2021)
 
 Udacity Data Scientist Nanodegree - Project 1
 
+Link to GitHub repository: https://github.com/bergr7/Project_1_AirBnB_Menorca
 Link to Medium Post: https://medium.com/@bernardogarciadelrio/fancy-a-trip-to-menorca-a7e6e12056ba
 
 ## Table of Contents
