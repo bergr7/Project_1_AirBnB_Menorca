@@ -3,10 +3,6 @@ AirBnB accommodations in Menorca (2020-2021)
 
 Udacity Data Scientist Nanodegree - Project 1
 
-Link to GitHub repository: https://github.com/bergr7/Project_1_AirBnB_Menorca
-
-Link to Medium Post: https://medium.com/@bernardogarciadelrio/fancy-a-trip-to-menorca-a7e6e12056ba
-
 ## Table of Contents
 1. Installation
 2. Project Motivation
@@ -40,7 +36,13 @@ There are 3 datasets used in this project in .csv files:
 The data was compiled the 30th April 2020 and downloaded from http://insideairbnb.com/get-the-data.html
 
 ## Results
-The main findings of the code are summary in a post published on Medium. It can be found here***
+The main findings of the code are summarised in a post published on Medium. It can be found here:
+
+https://medium.com/@bernardogarciadelrio/fancy-a-trip-to-menorca-a7e6e12056ba
+
+The code is in a repository at the link below:
+
+https://github.com/bergr7/Project_1_AirBnB_Menorca
 
 ## Licensing, Authors, Acknowledgements
 I would like to give credit to:
